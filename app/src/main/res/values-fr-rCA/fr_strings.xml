@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="enter_keyword_hint">Entrez le mot-clé ici</string>
+    <string name="search_button">Rechercher</string>
+    <string name="loading">Chargement en cours…</string>
+    <string name="news_title">Titre de l\actualité</string>
+    <string name="news_date">Date de l\actualité</string>
+    <string name="news_description">Description de l\actualité</string>
+    <string name="favourite_button">Ajouter aux favoris</string>
+    <string name="favourite_list">Articles favoris</string>
+    <string name="delete_button">Supprimer</string>
+    <string name="help_menu">Aide</string>
+    <string name="fav_menu">Favori</string>
+    <string name="Instructions">Entrez un mot-clé pour rechercher les actualités que vous aimez, vous pouvez l\ajouter à votre liste de favoris</string>
+</resources>

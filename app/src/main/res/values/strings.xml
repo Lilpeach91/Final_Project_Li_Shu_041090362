@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Project</string>
+    <string name="enter_keyword_hint">Enter keyword here</string>
+    <string name="search_button">Search</string>
+    <string name="loading">Loading…</string>
+    <string name="news_title">News Title</string>
+    <string name="news_date">News Date</string>
+    <string name="news_description">News Description</string>
+    <string name="favourite_button">Add to Favorite</string>
+    <string name="favourite_list">Favorite News Item</string>
+    <string name="delete_button">Remove</string>
+    <string name="help_menu">Help</string>
+    <string name="fav_menu">Favourite</string>
+    <string name="Instructions">Enter keyword to search news that you like, you can add it to your favourite list</string>
+
+
+</resources>
